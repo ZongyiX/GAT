@@ -1,5 +1,5 @@
 # Background
-This is a code implementation about [Graph Attention Network](https://arxiv.org/pdf/1710.10903v3.pdf) in PyTorch
+This is a code reimplementation about [Graph Attention Network](https://arxiv.org/pdf/1710.10903v3.pdf) in PyTorch
 
 # Requirement
 - PyTorch 1.0
